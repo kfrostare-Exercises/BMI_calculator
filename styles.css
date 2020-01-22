@@ -13,12 +13,28 @@ h1 {
 }
 
 input[type="text"] {
-    padding: 10px 5px;
-    margin: 25px 10px;
-    font-size: 16px;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    font-size: 17px;
     display: inline-block;
     text-align: center;
     width: 10%;
+}
+
+.weight {
+    display: inline-block;
+    text-align: center;
+    width: 650px;
+}
+
+.height {
+    display: inline-block;
+}
+
+.button {
+    display: inline-block;
+    text-align: center;
+    
 }
 
 button {
@@ -26,8 +42,7 @@ button {
     color: white;
     padding: 10px 10px;
     font-size: 16px;
-    text-align: center;
-    display: inline-block;
+    width: 120px;
 }
 
 .notification {
