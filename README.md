@@ -1,5 +1,5 @@
 # The BMI Calculator
-**week 3 of learning how to code.** Building a basic BMI-calculator that lets you know if you are normal, over- or underweight. Testing functions with Cypress and launching with GitHub. [View the BMI-calculator live through GitHub](https://kfrostare.github.io/BMI_repo/)
+**week 3 of learning how to code.** Building a basic BMI-calculator that lets you know if you are normal, over- or underweight. Testing functions with Cypress and launching with GitHub. [Try out the BMI-calculator for yourself!](https://kfrostare.github.io/BMI_repo/)
 
 *More information below the image.*
 ![The BMI Calculator](src/assets/css/bmicover01.jpg)
